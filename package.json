@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.955.0",
-    "flac-bindings": "^2.7.0",
+    "aws-sdk": "^2.1693.0",
+    "flac-bindings": "^5.0.0",
     "g": "^2.0.1",
-    "serverless": "^2.60.0",
-    "uuid": "^8.3.2"
+    "serverless": "^4.46.0",
+    "uuid": "^14.0.3"
   }
 }
